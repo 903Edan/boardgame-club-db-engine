@@ -1,4 +1,4 @@
-# Board Game Club ERP: Database Design & Relational Optimization
+# Board Game Club ERP: Database Design
 
 A comprehensive database engine lifecycle project modeling a high-traffic Board Game Club domain ("Gotta Love Games"). This project covers the full spectrum of database engineering: informal domain modeling, schema design, validation testing, and advanced relational normalization theory.
 
