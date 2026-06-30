@@ -5,8 +5,6 @@ A comprehensive database engine lifecycle project modeling a high-traffic Board 
 ## Tech Stack & Key Concepts
 * **Database:** PostgreSQL
 * **Languages:** SQL
-* **Theoretical Frameworks:** Relational Algebra, Functional Dependencies, BCNF Decomposition, 3NF Synthesis, Chase Test Validation.
-
 ---
 
 ## Schema Design & Constraint Engineering
